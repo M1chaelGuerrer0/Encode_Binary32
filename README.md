@@ -14,7 +14,7 @@ My method/subroutine has four arguments that correspond to the four fields in th
    1. the exponent: 41
 
 
-## Testing
+## Testing for the command line:
 Example:
 ```bash
      java_subroutine encode_binary32  '+' 0x34E1 '-' 0x29
